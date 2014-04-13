@@ -14,10 +14,10 @@ The following is the schematic of the cases being added to the ALU:
 
 ######ALU Test and Debug:
 
-Test Result:
+*Test Result:*
   * The test was simple and straight forward. Reference below for testing results.
 
 
-Debug
+*Debug*
   * There wasn't much debugging required for the ALU component. The hardest thing was realizing that LDA and IN
 had the same exact code.
