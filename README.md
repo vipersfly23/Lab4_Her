@@ -32,6 +32,6 @@ had the same exact code.
 *Test Result*
  *  The result turned out great. The testing included declaring the ALU component, other then that, the SIMULATION was analyzed, reference the REVERSE ENGINEERING section for the analysis.
  
- *Debug*
+*Debug*
   * The debugging of the Datapath primarily composed of removing a misplaced comma and semi colon from the testbench that was improperly placed by the original author. Furthermore, I used else if, stead of elsif, so I had to go back and modify the code after receivnig an error. Other then the two debugging mentioned above, there weren't any additional debugging done.
   
