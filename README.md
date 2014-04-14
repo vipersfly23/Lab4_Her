@@ -8,7 +8,7 @@ Lab4 Creating PRISM
 
 
 ######ALU Modification
-The ALU was modfified by adding the following cases to the ALU code:
+The ALU was modified by adding the following cases to the ALU code:
 
 The following is the schematic of the cases being added to the ALU: 
 
