@@ -66,7 +66,7 @@ Datapath Simulation Demo [COMPLETED]
 
 ####REVERSE ENGINEERING
 
-######Simulation Analysis:
+######Simulation Analysis (CLICK TO ENLARGE):
 
 50ns - 100ns Analysis
 
