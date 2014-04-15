@@ -48,4 +48,22 @@ had the same exact code.
  
 *Debug*
   * The debugging of the Datapath primarily composed of removing a misplaced comma and semi colon from the testbench that was improperly placed by the original author. Furthermore, I used else if, stead of elsif, so I had to go back and modify the code after receivnig an error. Other then the two debugging mentioned above, there weren't any additional debugging done.
+ 
+*Testbench Operation*
+ * The operation of thePRISM work as the schematic provided for the datapath and alu, the missing portion is the memory. That's where the testbench comes in. The testbench plays the memory role, thus providing the data, and address as a memory would normally hold. That's the main operation of the testbench, is providing the information, playing the role of memory.
+
+####Lab Functionality
+ALU Simulation [COMPLETED]
+Datapath Simulation Demo [COMPLETED]
+
+######Files:
+[ALU SHELL](https://github.com/vipersfly23/Lab4_Her/blob/master/ALU_shell.vhd)
+[ALU TESTBENCH](https://github.com/vipersfly23/Lab4_Her/blob/master/ALU_testbench.vhd)
+[DATAPATH SHELL](https://github.com/vipersfly23/Lab4_Her/blob/master/Datapath_shell.vhd)
+[DATAPATH TESTBENCH](https://github.com/vipersfly23/Lab4_Her/blob/master/Datapath_testbench.vhd)
+[LAB4 WAVE](https://github.com/vipersfly23/Lab4_Her/blob/master/Lab4_waveform.wcfg)
+
+
+
+
   
