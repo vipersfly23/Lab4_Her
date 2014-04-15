@@ -47,7 +47,9 @@ had the same exact code.
  * The operation of thePRISM work as the schematic provided for the datapath and alu, the missing portion is the memory. That's where the testbench comes in. The testbench plays the memory role, thus providing the data, and address as a memory would normally hold. That's the main operation of the testbench, is providing the information, playing the role of memory.
 
 ####Lab Functionality
+
 ALU Simulation [COMPLETED]
+
 Datapath Simulation Demo [COMPLETED]
 
 ######Files:
@@ -81,7 +83,10 @@ Below is the program listing, inserted into the PRISM program for neatness.
 ![alt text](https://github.com/vipersfly23/Lab4_Her/blob/master/Datapath_address.GIF?raw=true "Program A")
 
 
+========
+####Documentation
 
+No help received.
 
 
   
