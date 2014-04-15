@@ -2,12 +2,6 @@ Lab4_Her
 ========
 
 Lab4 Creating PRISM
-
-![alt text](https://github.com/vipersfly23/CE4_Her/blob/master/Program_A.GIF?raw=true "Program A")
-
-* [Program A](https://github.com/vipersfly23/CE4_Her/blob/master/Program_A_Her.psm)
-
-
 =======
 ####Design:
 
@@ -57,11 +51,35 @@ ALU Simulation [COMPLETED]
 Datapath Simulation Demo [COMPLETED]
 
 ######Files:
+
 [ALU SHELL](https://github.com/vipersfly23/Lab4_Her/blob/master/ALU_shell.vhd)
+
 [ALU TESTBENCH](https://github.com/vipersfly23/Lab4_Her/blob/master/ALU_testbench.vhd)
+
 [DATAPATH SHELL](https://github.com/vipersfly23/Lab4_Her/blob/master/Datapath_shell.vhd)
+
 [DATAPATH TESTBENCH](https://github.com/vipersfly23/Lab4_Her/blob/master/Datapath_testbench.vhd)
+
 [LAB4 WAVE](https://github.com/vipersfly23/Lab4_Her/blob/master/Lab4_waveform.wcfg)
+
+####REVERSE ENGINEERING
+
+######Simulation Analysis:
+
+50ns - 100ns Analysis
+
+![alt text](https://github.com/vipersfly23/Lab4_Her/blob/master/Datapath_analysis.GIF?raw=true "50ns - 100ns Analysis")
+
+Jump Instruction Analysis:
+
+![alt text](https://github.com/vipersfly23/Lab4_Her/blob/master/Datapath_Jump.GIF?raw=true "Jump Instruction Analysis")
+
+######Prism Program Listing w/ Address
+
+Below is the program listing, inserted into the PRISM program for neatness.
+
+![alt text](https://github.com/vipersfly23/Lab4_Her/blob/master/Datapath_address.GIF?raw=true "Program A")
+
 
 
 
